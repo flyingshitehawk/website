@@ -13,3 +13,5 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 For more information on Git see the [Official Git Documentation](http://www.git-scm.com).
+
+Or you can look at willies [here](http://www.flyingshitehawk.com).
